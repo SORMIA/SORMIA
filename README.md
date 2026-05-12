@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/SORMIA/.github/main/Logo%20final.png" alt="SORMIA" width="140"/>
+<img src="logo PNG 381 x 381.png"/>
 
 ### Cabinet de Conseil en Intelligence Artificielle
 
